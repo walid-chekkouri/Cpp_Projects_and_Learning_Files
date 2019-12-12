@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_1\TestCpp_1\main.cpp(23,32): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_1\TestCpp_1\main.cpp(24,32): warning C4305:  'initializing': truncation from 'double' to 'float'
+  TestCpp_1.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_1\Debug\TestCpp_1.exe

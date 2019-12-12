@@ -1,0 +1,36 @@
+#include <iostream>
+using namespace std;
+void TacheB(int nb1);
+void TacheC();
+int main();
+int tot;
+double moy=0, index=0;
+
+void TacheB(int nb1){
+	
+	if (nb1 < 0) { cout << "Erreur" << endl; 	system("pause"); }
+	else if (nb1>0){
+		index++;
+		tot = tot + nb1;
+		main();
+	}
+	else TacheC();
+}
+
+void TacheC(){
+	moy = (tot / index);
+	if (moy>0){ cout << "La moyenne est: " << moy << endl; }
+	else { cout << "Aucun entier positif saisi " << endl; }
+	system("pause");
+}
+
+int main(){//TacheA
+
+	int nb1;
+	cout << "Entrer un entier positif" << endl;
+	cin >> nb1;
+	TacheB(nb1);
+
+
+	return 0;
+}

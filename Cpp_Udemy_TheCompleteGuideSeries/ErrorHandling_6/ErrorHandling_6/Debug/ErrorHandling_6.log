@@ -1,0 +1,14 @@
+﻿Build started 14/06/2019 17:13:23.
+     1>Project "C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\ErrorHandling_6\ErrorHandling_6\ErrorHandling_6.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\walid\desktop\learning c++ tests\c++_udemy_thecompleteguideseries\errorhandling_6\errorhandling_6\main.cpp(11): warning C4101: 'param' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\ErrorHandling_6\Debug\ErrorHandling_6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\ErrorHandling_6\Debug\ErrorHandling_6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\ErrorHandling_6\Debug\ErrorHandling_6.lib" /MACHINE:X86 Debug\Main.obj
+         ErrorHandling_6.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\ErrorHandling_6\Debug\ErrorHandling_6.exe
+     1>Done Building Project "C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\ErrorHandling_6\ErrorHandling_6\ErrorHandling_6.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31

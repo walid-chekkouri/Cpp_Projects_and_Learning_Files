@@ -1,0 +1,3 @@
+Constant variable declaration
+Random number generation (Small Guessing game)
+Functions

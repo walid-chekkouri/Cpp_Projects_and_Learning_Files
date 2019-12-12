@@ -1,0 +1,16 @@
+SFML_1:  Moving object on the screen.
+SFML_2:  Small platformer game mechanics.
+SFML_S0: Keys released & pressed
+SFML_S1: Mouse Events
+SFML_S2: Joystick Events
+SFML_S3: Window Events
+SFML_S4: Text Events
+SFML_S5: Live Input
+SFML_S5: Sprites
+SFML_S6: Sprite origin, scale and color
+SFML_S7: Sprite position and rotation. Regular shapes.
+SFML_S8: Convex Shape.Adding A Line
+SFML_S9: Circle shape.
+SFML_S10:Vertex Arrays
+SFML_S11:Complex Drawing Using Vertex Arrays
+SFML_S12:Drawing Vertex Arrays With Textures,Transforming Vertex Arrays

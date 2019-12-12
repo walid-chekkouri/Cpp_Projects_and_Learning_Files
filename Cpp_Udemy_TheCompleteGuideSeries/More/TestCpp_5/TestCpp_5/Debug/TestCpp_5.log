@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\walid\source\repos\TestCpp_5\TestCpp_5\main.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+  TestCpp_5.vcxproj -> C:\Users\walid\source\repos\TestCpp_5\Debug\TestCpp_5.exe

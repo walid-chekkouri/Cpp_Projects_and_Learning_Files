@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Friend_Class.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  A.cpp
+  B.cpp
+  main.cpp
+  Generating Code...
+  Friend_Class.vcxproj -> C:\Users\walid\Desktop\Friend_MethodOfAnotherClass\Debug\Friend_MethodOfAnotherClass.exe

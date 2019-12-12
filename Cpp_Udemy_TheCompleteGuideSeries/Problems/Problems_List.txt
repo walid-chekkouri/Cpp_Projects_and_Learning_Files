@@ -1,0 +1,3 @@
+Problem1: average characters in a given text.(using vectors and File I/O).
+Problem2: finding odd numbers from a list of numbers.(using functions as arguments).
+Problem3: find the number of heads & tails (randomly generated).(using functions as args).

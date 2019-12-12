@@ -1,0 +1,56 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <sstream>
+#include <vector>
+using namespace std;
+
+const char TAB = '\t';
+
+struct StructBook {
+    string Name, Author;
+    double Price;
+};
+
+vector<StructBook> Library;
+
+void GetBookDetails(string LineBookDetails, StructBook & Book) {
+    string string_Price;
+    stringstream StringStreamBookDetails(LineBookDetails);
+    getline(StringStreamBookDetails, Book.Name, TAB);
+    getline(StringStreamBookDetails, Book.Author, TAB);
+    getline(StringStreamBookDetails, string_Price, TAB);
+    stringstream(string_Price) >> Book.Price;
+}
+
+bool LoadLibrary() {
+    ifstream FileBookList("BookList.txt");
+    if(FileBookList.is_open()) {
+        string LineBookDetails;
+        StructBook Book;
+
+        while(getline(FileBookList, LineBookDetails)) {
+            GetBookDetails(LineBookDetails, Book);
+            Library.push_back(Book);
+            cout << Book.Name << ", " << Book.Author << ", " << Book.Price << endl;
+        }
+
+        FileBookList.close();
+        return true;
+    } else {
+        return false;
+    }
+}
+
+int main(){
+    if(!LoadLibrary())
+        cout << "Error: Unable to load library";
+
+    //Rest of your program goes here
+
+    return 0;
+}
+
+
+Link:
+https://stackoverflow.com/questions/55762662/c-fileio-to-read-and-write-into-objects-variables/55764434#55764434

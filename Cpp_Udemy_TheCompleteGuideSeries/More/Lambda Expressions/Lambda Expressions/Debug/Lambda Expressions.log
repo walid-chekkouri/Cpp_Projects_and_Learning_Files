@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\Lambda Expressions\Lambda Expressions\main.cpp(97,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lambda Expressions.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\Lambda Expressions\Debug\Lambda Expressions.exe

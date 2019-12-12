@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\Sorting\QuickSort_RandomPivot\QuickSort_RandomPivot\main.cpp(37,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QuickSort_RandomPivot.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\Sorting\QuickSort_RandomPivot\Debug\QuickSort_RandomPivot.exe

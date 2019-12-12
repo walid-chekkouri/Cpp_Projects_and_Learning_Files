@@ -1,0 +1,6 @@
+While
+Do While
+Size of a variable
+Casting between numbers and strings
+Solution for the division of two integers resulting in a double.
+For loop

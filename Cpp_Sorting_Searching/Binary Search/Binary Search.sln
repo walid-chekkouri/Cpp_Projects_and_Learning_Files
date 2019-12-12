@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary Search", "Binary Search\Binary Search.vcxproj", "{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Debug|x64.ActiveCfg = Debug|x64
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Debug|x64.Build.0 = Debug|x64
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Debug|x86.Build.0 = Debug|Win32
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Release|x64.ActiveCfg = Release|x64
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Release|x64.Build.0 = Release|x64
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Release|x86.ActiveCfg = Release|Win32
+		{DAF8B87F-BD52-42B8-A69F-2D5F5D6B5A03}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7536370C-FE1F-4391-96E0-53AE930943BD}
+	EndGlobalSection
+EndGlobal

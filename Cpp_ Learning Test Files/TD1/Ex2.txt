@@ -1,0 +1,38 @@
+#include <iostream>
+using namespace std;
+
+int n_premier(int nb){
+	int diviseurs = 0;
+	int rest=0;
+	for (int i = 2; i <= nb; i++){
+		if (((nb % i) == 0 )&& ((nb % 1) == 0)){
+			diviseurs++;
+		}
+	}
+	return diviseurs;
+}
+
+
+
+int main(){
+
+	int nb, premier;
+	cout << "Entrer un nombre" << endl;
+	cin >> nb;
+	premier=n_premier(nb);
+	if (premier==1){
+		cout <<nb <<" est un nombre premier" << endl;
+		for (int j = 2; j < nb;j++){
+			premier = n_premier(j);
+			if (premier==1){
+				cout << "un autre nombre premier inferieur à "<<nb<<" est: " << j<<endl;
+			}
+		}
+	
+	}
+	else cout << "Pas un nombre premier" << endl;
+	
+	system("pause");
+
+	return 0;
+}

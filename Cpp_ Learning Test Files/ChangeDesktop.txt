@@ -1,0 +1,19 @@
+#include <windows.h>
+#include <iostream>
+using namespace std;
+int main()
+{
+	char monchar;
+	cout << "Entrer le char g" << endl;
+	cin >> monchar;
+	if (monchar=='g'){
+	
+		const wchar_t *filenm = L"C:\\sher.jpg"; //ADDRESS of first image
+		bool isWallSet = SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, (void*)filenm, SPIF_UPDATEINIFILE);
+	}
+
+			
+	
+	
+	return 0;
+}

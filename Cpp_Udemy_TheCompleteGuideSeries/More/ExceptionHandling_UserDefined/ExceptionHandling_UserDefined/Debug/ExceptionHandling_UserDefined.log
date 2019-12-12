@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\ExceptionHandling_UserDefined\ExceptionHandling_UserDefined\main.cpp(35,38): warning C4101:  'ex': unreferenced local variable
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\ExceptionHandling_UserDefined\ExceptionHandling_UserDefined\main.cpp(39,39): warning C4101:  'ex': unreferenced local variable
+  ExceptionHandling_UserDefined.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\ExceptionHandling_UserDefined\Debug\ExceptionHandling_UserDefined.exe

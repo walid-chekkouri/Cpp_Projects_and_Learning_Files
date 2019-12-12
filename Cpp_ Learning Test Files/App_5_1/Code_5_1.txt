@@ -1,0 +1,3 @@
+Pointers basics
+Using strings & character arrays
+Different functions of strings

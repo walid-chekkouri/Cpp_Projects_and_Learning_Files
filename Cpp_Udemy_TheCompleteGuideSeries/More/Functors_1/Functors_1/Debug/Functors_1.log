@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\Functors_1\Functors_1\main.cpp(43,40): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\Functors_1\Functors_1\main.cpp(44,40): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\Functors_1\Functors_1\main.cpp(47,45): warning C4305:  'argument': truncation from 'double' to 'float'
+  Functors_1.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\Functors_1\Debug\Functors_1.exe

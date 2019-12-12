@@ -1,0 +1,18 @@
+1- unsigned short, auto, sizeof,numericLimits, float precision, getline, convert string to int.
+2-arrays
+3-vectors, pointers & arrays, auto range loop
+4-exception handling
+5-string to vector
+6-Find & replace string occurances
+7-CaesarCipher
+8-solving simple equations
+9-check and generate prime numbers
+10-generate random numbers in a given range
+11-Bubble Sort
+12-Fibonacci
+13-Overloading Functions (calculating area exmaple)
+14-Execution time intervals, Big O notation testing ground 1, chrono usage
+15-Binary Search Sort
+16-Quick Sort
+17-Selection Sort
+18-Insertion Sort.

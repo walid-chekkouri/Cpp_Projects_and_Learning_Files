@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_12\TestCpp_12\main.cpp(10,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_12\TestCpp_12\main.cpp(10,9): message :  consider using '%lld' in the format string
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_12\TestCpp_12\main.cpp(10,9): message :  consider using '%I64d' in the format string
+  TestCpp_12.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\More\TestCpp_12\Debug\TestCpp_12.exe

@@ -1,0 +1,19 @@
+full binary tree:max n of nodes in that height.N of nodes in full binary tree is: (2^n+1)-1.
+-Complete binary tree: no missing elements(-)(no missing elements).Unless the previous level is filled we can't go to the next level.
+Max heap, when we instert we insert it in last leaf then check with each parent(i/2).max how many swaps? depends on the height of the tree=>logn.Min:O(1).Ajustment is made upwords, from leaf to root.
+
+Deletion:we only delete root.The last element in leaf we'll take its place, then remove it since we used it.Adjustment is made downwords, from root to leaves.O(logn).
+
+When we delete an element in Max heap=>we get the largest element.We'll get a free array space when deleteing an element, so we can store a copy there, when doing this to the entire array we get sorted array (in increasing order).This is Heap Sort.
+
+Heap Sort:(2nlong)=O(nlogn)
+-create heap:(O(nlogn)), we inserted n elements, each takes longn.
+ -use insertion.(upwords adjustment) takes O(logn).
+-delete elements:O(nlogn),(downwords adjustment) takes O(logn).
+
+
+Heapify:O(n) (faster)
+Creating a heap (like the above, but instead of upwords adjustment it uses downwords adjustment and start with the last element of array (left to right, last leaf and work backwards to every level) (last leaf element) instead.
+-Does the element contain children? False then it's a heap,True then compare it with its children and swap it if our element is less than its child.
+
+Priority Queue, elements inserted & deleted based on the priority.(Highest priority). high priority:smaller number. so 3 has higher priority than 7.

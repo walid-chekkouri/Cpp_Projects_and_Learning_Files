@@ -1,0 +1,138 @@
+Code_1:
+InputOutputStreams
+Getline
+StringStream
+SystemCommand
+IfStatement
+
+Code_2:
+While
+Do While
+Size of a variable
+Casting between numbers and strings
+Solution for the division of two integers resulting in a double.
+For loop
+
+Code_3:
+Constant variable declaration
+Random number generation (Small Guessing game)
+Functions
+
+Code_4_1:
+Classes, Objects & Constructors
+Class Access Modifiers
+Arrays, arrays length
+
+Code_4_2:
+Global&Local variables
+2Dimensional Matrix
+
+Code_4_3:
+Mine Finder mini game using Matrix
+
+Code_5_1:
+Pointers basics
+Using strings & character arrays
+Different functions of strings
+
+Code_5_2:
+File Handling, reading and writing from/to files.
+
+Code_5_3:
+Classes Basics
+difference between i++ & ++i
+
+Code_5_4:
+using the Math library to make a Stock Market Simulator
+
+Code_5_5:
+Switch Case simple usage
+
+Code_7:
+Constructors in classes and code in multiple files
+
+Code_8:
+Inheritance
+
+Code_9:
+Dynamic Memory
+
+Code_12:
+STL Templates and Vector library
+
+Code_13:
+Default Arguments / Parameters
+
+Code_14:
+Unary Scope Resolution Operator
+
+Code_15:
+Function Overloading
+
+Code_16:
+Recursion example
+
+Code_18:
+Pass by reference
+
+Code_20:
+Arrow Member Selection Operator
+
+Code_21:
+Constant variables and objects, Member Initializers
+
+Code_22:
+Composition
+
+Code_23:
+Friend
+
+Code_24:
+this
+
+Code_25:
+Operator Overloading
+
+Code_26:
+Inheritance & protected members
+
+Code_27:
+Polymorphism
+
+Code_28:
+Abstract Classes and Pure virtual Functions
+
+Code_29:
+Function Templates
+
+Code_30:
+function Templates with Multiple Parameters
+ternary operator
+Comma Operator
+
+Code_31:
+class Templates
+
+Code_32:
+Template Specializations
+
+Code_33:
+Exceptions
+
+Code_34:
+More Exceptions
+
+Code_35:
+FStream & file handling
+
+Code_36:
+More on file handling
+
+Code_37:
+Reading Custom File Structures
+
+Code_38:
+Working with files
+
+Code_39:
+More about Strings

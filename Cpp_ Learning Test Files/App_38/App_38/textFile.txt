@@ -1,0 +1,9 @@
+table 0
+assassin -54
+taxi 43
+hat 0
+pen 0
+banana 87
+apple 32
+drug -44
+needle -99

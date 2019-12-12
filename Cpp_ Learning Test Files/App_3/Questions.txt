@@ -1,0 +1,5 @@
+float f at the end in c++
+constant
+hexadecimal, boolean ....operations
+random double or string.
+

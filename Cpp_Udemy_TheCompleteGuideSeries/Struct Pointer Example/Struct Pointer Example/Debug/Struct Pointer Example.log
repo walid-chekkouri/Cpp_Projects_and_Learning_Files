@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\Struct Pointer Example\Struct Pointer Example\main.cpp(19,17): warning C4101:  'arrayS': unreferenced local variable
+C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\Struct Pointer Example\Struct Pointer Example\main.cpp(22,18): warning C4101:  's': unreferenced local variable
+  Struct Pointer Example.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\C++_Udemy_TheCompleteGuideSeries\Struct Pointer Example\Debug\Struct Pointer Example.exe

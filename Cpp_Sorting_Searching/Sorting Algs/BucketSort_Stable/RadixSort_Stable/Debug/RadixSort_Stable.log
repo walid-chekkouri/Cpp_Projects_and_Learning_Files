@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\Sorting\Sorting Algs\BucketSort_Stable\RadixSort_Stable\main.cpp(17,10): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\walid\Desktop\Learning C++ Tests\Sorting\Sorting Algs\BucketSort_Stable\RadixSort_Stable\main.cpp(28,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\walid\Desktop\Learning C++ Tests\Sorting\Sorting Algs\BucketSort_Stable\RadixSort_Stable\main.cpp(43,80): warning C4305:  'initializing': truncation from 'double' to 'float'
+  RadixSort_Stable.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\Sorting\Sorting Algs\BucketSort_Stable\Debug\BucketSort_Stable.exe
