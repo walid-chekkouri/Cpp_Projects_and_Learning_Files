@@ -109,10 +109,15 @@ void mergeSort(Person arr[], int l, int r)
 
 
 		// Sort first and second halves 
+		cout << "Left " <<m << endl;
 		mergeSort(arr, l, m);
+
+		cout << "Right " << m<< endl;
 		mergeSort(arr, m + 1, r);
 
+		cout << "Parent " << m<< endl;
 		merge(arr, l, m, r);
+		
 	}
 }
 
