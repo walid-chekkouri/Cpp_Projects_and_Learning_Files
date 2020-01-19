@@ -1,0 +1,1 @@
+This repository contains mini projects in c++ as well as examples of concepts in cpp.
